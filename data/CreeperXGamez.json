@@ -1,0 +1,18 @@
+{
+    "id": "Unfinished",
+    "name": "Waterfall",
+    "author": "Unfinished Level",
+    "creators": ["CreeperXGamez", "SeeAFallenCat"],
+    "verifier": "Not Verified",
+    "verification": "Not Verified",
+    "percentToQualify": 56,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "CreeperXGamez",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 300
+        }
+    ]
+}
