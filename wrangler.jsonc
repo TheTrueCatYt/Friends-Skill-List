@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cats-gdps-demon-list",
+  "name": "levels-i-worked-on-list",
   "compatibility_date": "2026-05-04",
   "observability": {
     "enabled": true
